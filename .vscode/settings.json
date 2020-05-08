@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a26fc80a-f4c9-46ff-af4d-42d3ba2f7c33/resourceGroups/fakedata/providers/Microsoft.Web/sites/fakedata",
+    "appService.deploySubpath": ""
+}
